@@ -17,7 +17,7 @@ A Chrome extension that allows users to easily pick colors from any webpage. The
 
 1. **Clone or download** this repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/color-picker-extension.git
+   git clone https://github.com/PreetR24/Chrome-Extensions.git
    cd color-picker-extension
 
 2. Open Chrome and go to the chrome://extensions/ page.
